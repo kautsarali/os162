@@ -1,0 +1,5 @@
+#Kautsar Ali Bimasiwi
+#INT162
+I have learnt about pull and push repository,
+i already know how to create file, change directory, move file,
+and how to use text editor
