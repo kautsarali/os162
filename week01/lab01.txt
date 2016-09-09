@@ -17,3 +17,4 @@ drwxr-xr-x  2 kautsar.ali StafCS 4096 Sep  7 16:33 week08
 drwxr-xr-x  2 kautsar.ali StafCS 4096 Sep  7 16:33 week09
 drwxr-xr-x  2 kautsar.ali StafCS 4096 Sep  7 16:34 week10
 /home/fasilkom/mahasiswa/k/kautsar.ali/os162/week01
+Today is 09 Sep 2016 at 14:54:55
